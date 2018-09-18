@@ -3,8 +3,8 @@ Este repositório foi criado com intuito de disponibilizar os pré-requisitos pa
 
 ## Introdução
 
-Este etapa do processo seletivo desejamos que você desenvolva um projeto prático de front-end.<br />
-Deverá ser criado a estrutura front-end RESPONSIVA do layout que segue em anexo deste e-mail. 
+Esta etapa do processo seletivo desejamos que você desenvolva um projeto prático de front-end. 
+Deverá ser criado a estrutura front-end RESPONSIVA do layout que se encontra neste repositório.
 
 ## Requisitos
 
@@ -17,7 +17,7 @@ Deverá ser criado a estrutura front-end RESPONSIVA do layout que segue em anexo
 
 ## Critérios de avaliação 
 
-Caso o projeto entregue seja enviado com todos os critérios acima, <br />
+Caso o projeto entregue seja enviado com todos os critérios acima, 
 serão levados em consideração também os seguintes conhecimentos:
 
 - Sintaxe e semântica do HTML
