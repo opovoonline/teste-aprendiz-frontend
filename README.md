@@ -1,5 +1,5 @@
-# Teste Prático Front-end O POVO
-Este repositório foi criado com intuito de disponibilizar os pré-requisitos para teste Desenvolvedor Front-end do Jornal O POVO
+# Teste Prático Aprendiz Front-end O POVO
+Este repositório foi criado com intuito de disponibilizar os pré-requisitos e o teste prático para se tornar um Aprendiz Front-end do Grupo de Comunicação O POVO
 
 ## Introdução
 
@@ -15,7 +15,7 @@ Deverá ser criado a estrutura front-end RESPONSIVA do layout que se encontra ne
 - GitHub
 - Noções de Fireworks ou Photoshop
 
-## Critérios de avaliação 
+## Critérios de Avaliação 
 
 Caso o projeto entregue seja enviado com todos os critérios acima, 
 serão levados em consideração também os seguintes conhecimentos:
@@ -28,7 +28,7 @@ serão levados em consideração também os seguintes conhecimentos:
 - Documentação
 - Uso de controle de versão
 
-## Processo de submissão
+## Processo de Submissão
 
 O teste deve ser versionado e disponibilizado no GitHub do candidado.<br />
 Enviar o link para: mariafernandes@opovodigital.com<br />
