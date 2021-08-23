@@ -31,7 +31,7 @@ serão levados em consideração também os seguintes conhecimentos:
 ## Processo de Submissão
 
 O teste deve ser versionado e disponibilizado no GitHub do candidado.<br />
-Enviar o link para: brendacamara@opovodigital.com e mariafernandes@opovodigital.com<br />
+Enviar o link para: brendacamara@opovodigital.com
 
 Boa sorte a todos e<br />
 Bom trabalho!!
