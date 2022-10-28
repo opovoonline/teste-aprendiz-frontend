@@ -13,7 +13,6 @@ Deverá ser criado a estrutura front-end RESPONSIVA do layout que se encontra ne
 - Fontes Web 
 - JavaScript 
 - GitHub
-- Noções de Fireworks ou Photoshop
 
 ## Critérios de Avaliação 
 
